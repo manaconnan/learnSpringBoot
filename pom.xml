@@ -8,8 +8,65 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
+        <module>Chapter1</module>
+        <module>Chapter2-1-1</module>
+        <module>Chapter2-1-2</module>
+        <module>Chapter2-2-1</module>
+        <module>Chapter3-1-1</module>
+        <module>Chapter3-1-2</module>
+        <module>Chapter3-1-3</module>
+        <module>Chapter3-1-4</module>
+        <module>Chapter3-1-5</module>
+        <module>Chapter3-1-6</module>
+        <module>Chapter3-1-7</module>
         <module>Chapter3-1-8</module>
-
+        <module>Chapter3-2-1</module>
+        <module>Chapter3-2-2</module>
+        <module>Chapter3-2-3</module>
+        <module>Chapter3-2-4</module>
+        <module>Chapter3-2-5</module>
+        <module>Chapter3-2-6</module>
+        <module>Chapter3-2-7</module>
+        <module>Chapter3-2-8</module>
+        <module>Chapter3-2-9</module>
+        <module>Chapter3-2-10</module>
+        <module>Chapter3-2-11</module>
+        <module>Chapter4-1-1</module>
+        <module>Chapter4-1-2</module>
+        <module>Chapter4-1-3</module>
+        <module>Chapter4-1-4</module>
+        <module>Chapter4-1-5</module>
+        <module>Chapter4-2-2</module>
+        <module>Chapter4-2-3</module>
+        <module>Chapter4-2-4</module>
+        <module>Chapter4-2-5</module>
+        <module>Chapter4-2-6</module>
+        <module>Chapter4-3-1</module>
+        <module>Chapter4-4-1</module>
+        <module>Chapter4-4-2</module>
+        <module>Chapter4-5-1</module>
+        <module>Chapter5-2-1</module>
+        <module>Chapter6-1-1</module>
+        <module>Chapter6-2-1</module>
+        <module>Chapter9-1-1/compute-service</module>
+        <module>Chapter9-1-1/eureka-server</module>
+        <module>Chapter9-1-2/eureka-feign</module>
+        <module>Chapter9-1-2/eureka-ribbon</module>
+        <module>Chapter9-1-3/compute-service</module>
+        <module>Chapter9-1-3/eureka-feign</module>
+        <module>Chapter9-1-3/eureka-ribbon</module>
+        <module>Chapter9-1-3/eureka-server</module>
+        <module>Chapter9-1-4/config-client</module>
+        <module>Chapter9-1-4/config-server</module>
+        <module>Chapter9-1-5/api-gateway</module>
+        <module>Chapter9-1-5/eureka-server</module>
+        <module>Chapter9-1-5/api-gateway</module>
+        <module>Chapter9-1-5/service-A</module>
+        <module>Chapter9-1-5/service-B</module>
+        <module>Chapter9-2-1/compute-service</module>
+        <module>Chapter9-2-1/consumer</module>
+        <module>Chapter9-2-2/compute-service</module>
+        <module>Chapter9-2-2/consumer</module>
     </modules>
 
 
